@@ -1,0 +1,28 @@
+{
+  "ProjectName": "with.dot",
+  "ProjectGuid": "26424353-55d0-4c9a-91fd-5c014f83ccf4",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.withdot",
+  "DisplayName": "with.dot",
+  "Author": "",
+  "Description": "with.dot",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.3.0",
+  "Framework": "NativeScript"
+}
